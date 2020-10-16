@@ -1,0 +1,45 @@
+
+  h3{
+     text-align:center; /* Aligns the h3 text */
+    text-decoration: underline;
+    text-indent 12px;
+      text-align:center;
+    }
+h1{
+  text align:center;
+  color:White;
+  font-weight:bold;
+  font-size:80px;
+  text-align:center;
+}
+e{
+  height: 30px;
+  width: 30px;
+}
+body{
+  background-color:White;
+}
+body{
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.liveabout.com%2Fbiography-and-profile-of-kimbo-slice-2307933&psig=AOvVaw3TMUqnnefONPSXauBzOT2o&ust=1602941758709000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOig3cKduewCFQAAAAAdAAAAABAE")
+}
+   p{
+    font-size: 20px;
+    text-align: Center;
+    font-style: italic;
+    }
+    h2{
+      text-align:center;
+      color:Black;
+    }
+.h{
+background-color:Grey;
+  border-radius: 20px;
+  margin: 50px 75px 75px 100px;
+  text-align:center;
+  font-size: 25px;
+}
+h4{
+  text-align:center;
+  color:black;
+  font-size:80px;
+}
